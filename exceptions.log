@@ -1,0 +1,95 @@
+[2022-12-11 11:57:37] [ ERROR] [GlobalExceptions:21] com.dh.marin.exceptions.BadRequestException: No se han especificado correctamente los datos del odontologo o son nulos
+[2022-12-11 13:13:08] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 13:23:07] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 13:38:16] [ ERROR] [GlobalExceptions:22] com.dh.marin.exceptions.BadRequestException: No se han especificado correctamente los datos del odontologo o son nulos
+[2022-12-11 13:47:02] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 6 ya se encuentra asociada a otro odontologo
+[2022-12-11 13:56:22] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 13:59:55] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 32 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:09:31] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:18:00] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:25:01] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 3 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:27:20] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 3 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:28:15] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 32 ya se encuentra asociada a otro odontologo
+[2022-12-11 14:46:22] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar el odontologo con id= 7 ya que no existe en la base de datos
+[2022-12-11 14:48:13] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar el odontologo con id= 7 ya que no existe en la base de datos
+[2022-12-11 14:48:28] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 4SD ya se encuentra asociada a otro odontologo
+[2022-12-11 14:49:26] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede eliminar el odontologo con id= 3 ya que no existe un odontologo en la base de datoscon el mencionado id
+[2022-12-11 16:01:59] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula fef ya se encuentra asociada a otro odontologo
+[2022-12-11 16:02:15] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula fgd ya se encuentra asociada a otro odontologo
+[2022-12-11 16:02:45] [ ERROR] [GlobalExceptions:22] com.dh.marin.exceptions.BadRequestException: No se han especificado correctamente los datos del odontologo o son nulos
+[2022-12-11 16:03:23] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 7 no encontrado
+[2022-12-11 16:03:42] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula fgd ya se encuentra asociada a otro odontologo
+[2022-12-11 16:11:31] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula fgd ya se encuentra asociada a otro odontologo
+[2022-12-11 16:11:58] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 2 no encontrado
+[2022-12-11 16:39:05] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 16:42:09] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 1 no encontrado
+[2022-12-11 16:43:31] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula jg ya se encuentra asociada a otro odontologo
+[2022-12-11 16:46:24] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 55 ya se encuentra asociada a otro odontologo
+[2022-12-11 16:50:43] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 16:51:43] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 16:52:32] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 2 no encontrado
+[2022-12-11 16:52:51] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 16:57:39] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 1 no encontrado
+[2022-12-11 16:58:06] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 16:58:13] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula rfv ya se encuentra asociada a otro odontologo
+[2022-12-11 16:59:25] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula rssv ya se encuentra asociada a otro odontologo
+[2022-12-11 17:09:50] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo
+[2022-12-11 17:15:04] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 5h ya se encuentra asociada a otro odontologo
+[2022-12-11 17:28:26] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 17:41:21] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar odontologo con id 2 no encontrado
+[2022-12-11 17:41:31] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 5h ya se encuentra asociada a otro odontologo
+[2022-12-11 17:44:09] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 32 ya se encuentra asociada a otro odontologo
+[2022-12-11 18:04:26] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula 2 ya se encuentra asociada a otro odontologo
+[2022-12-11 18:04:31] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 2 ya se encuentra asociado a otro odontologo
+[2022-12-11 19:55:34] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La matricula f ya se encuentra asociada a otro odontologo
+[2022-12-11 20:15:12] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede eliminar el Odontologo con id 1 no existe en la base de datos
+[2022-12-11 20:15:22] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: No se puede eliminar el Odontologo con id 1 no existe en la base de datos
+[2022-12-11 21:02:58] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula 34 ya se encuentra asociada a otro paciente
+[2022-12-11 21:08:19] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula dads ya se encuentra asociada a otro paciente
+[2022-12-11 21:24:27] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula ff ya se encuentra asociada a otro paciente
+[2022-12-11 21:26:32] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula dads ya se encuentra asociada a otro paciente
+[2022-12-11 21:33:51] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula dads ya se encuentra asociada a otro paciente
+[2022-12-11 22:03:28] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 1 no encontrado
+[2022-12-11 22:27:19] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 1 no encontrado
+[2022-12-11 22:30:15] [ ERROR] [GlobalExceptions:17] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 1 no encontrado
+[2022-12-11 23:50:28] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula dads ya se encuentra asociada a otro paciente
+[2022-12-11 23:51:05] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: La cedula dads ya se encuentra asociada a otro paciente
+[2022-12-11 23:51:15] [ ERROR] [GlobalExceptions:27] com.dh.marin.exceptions.DuplicateConflictException: El id 2 ya se encuentra asociado a otro paciente
+[2022-12-11 23:53:00] [ ERROR] [GlobalExceptions:22] com.dh.marin.exceptions.BadRequestException: No se han especificado correctamente los datos del paciente o son nulos
+[2022-12-12 15:29:28] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 2 no encontrado
+[2022-12-12 15:29:38] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 15:46:08] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 15:46:39] [ ERROR] [GlobalExceptions:26] com.dh.marin.exceptions.DuplicateConflictException: El id 1 ya se encuentra asociado a otro odontologo 
+[2022-12-12 15:48:32] [ ERROR] [GlobalExceptions:26] com.dh.marin.exceptions.DuplicateConflictException: El id 2 ya se encuentra asociado a otro odontologo 
+[2022-12-12 16:30:13] [ ERROR] [GlobalExceptions:21] com.dh.marin.exceptions.BadRequestException: Incluya un id
+[2022-12-12 16:34:15] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 16:34:34] [ ERROR] [GlobalExceptions:26] com.dh.marin.exceptions.DuplicateConflictException: El id 2 ya se encuentra asociado a otro turno 
+[2022-12-12 16:35:01] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: No se puede actualizar el turno con id 4, no encontrado
+[2022-12-12 16:35:16] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 16:35:36] [ ERROR] [GlobalExceptions:21] com.dh.marin.exceptions.BadRequestException: Incluya un id
+[2022-12-12 17:35:09] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 17:37:57] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 17:40:34] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 17:42:00] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 17:47:28] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 17:54:34] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:01:37] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:06:56] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:07:12] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:09:30] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:12:33] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 2 no encontrado
+[2022-12-12 18:17:42] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 18:18:00] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 1 no encontrado
+[2022-12-12 18:25:32] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 1 no encontrado
+[2022-12-12 18:35:45] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 2 no encontrado
+[2022-12-12 19:05:23] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 19:06:33] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 19:12:07] [ ERROR] [GlobalExceptions:26] com.dh.marin.exceptions.DuplicateConflictException: La matricula f ya se encuentra asociada a otro odontologo 
+[2022-12-12 19:17:13] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 19:30:56] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 19:33:43] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 2 no encontrado
+[2022-12-12 19:40:52] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 19:42:56] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 19:44:30] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 1 no encontrado
+[2022-12-12 19:45:00] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Paciente con id 2 no encontrado
+[2022-12-12 19:45:31] [ ERROR] [GlobalExceptions:16] com.dh.marin.exceptions.ResourceNotFoundException: Odontologo con id 2 no encontrado
